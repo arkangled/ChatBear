@@ -1,7 +1,7 @@
 {
     "name": "ChatBear",
     "version_number": "2.0.0",
-    "website_url": "https://steamcommunity.com/id/Bohdie/",
+    "website_url": "https://github.com/arkangled",
     "description": "The joke went too far",
     "dependencies": [
         "jockie-LethalExpansionCore-1.3.6"
